@@ -92,8 +92,8 @@ In this analysis we used Tier 2 GP2 Release 11 (10.5281/zenodo.17753486).
 |PLINK|v.1.9,v. 2.0|http://www.nitrc.org/projects/plink|RRID:SCR_001757|Used for genetic analyses.|
 |Python Programming Language|3.7, 3.8, 3.9, 3.10|http://www.python.org/|RRID:SCR_008394|pandas; numpy; seaborn; matplotlib; statsmodel; Used for general data wrangling/plotting/analyses|
 |R Project for Statistical Computing|v.4.2.2|http://www.r-project.org/|RRID:SCR_001905|tidyverse; dplyr; tidyr; ggplot; data.table; Used for general data wrangling/plotting/analyses	|
-|REGENIE|v. 4.1.2|https://rgcgithub.github.io/regenie/||Used for generating summary statistics files.|
-|REMETA|v. 0.11.2|https://rgcgithub.github.io/remeta/||Used for gene-based meta analysis.|
+|REGENIE|v. 4.1.2|https://rgcgithub.github.io/regenie/|NA|Used for generating summary statistics files.|
+|REMETA|v. 0.11.2|https://rgcgithub.github.io/remeta/|NA|Used for gene-based meta analysis.|
 |RVTests|v.2.1.0|http://genome.sph.umich.edu/wiki/RvTests|RRID:SCR_007639|Used for burden analyses.|
 |SKAT|v.2.2.5|https://cran.r-project.org/package=SKAT|RRID:SCR_009396|Used for power calculation.|
-|Variant Effect Predictor (VEP)|
+|Ensembl Variant Effect Predictor (VEP)|v.113|https://www.ensembl.org/Tools/VEP/|RRID:SCR_007931|Used for annotating variants and predicting functional consequences.|
